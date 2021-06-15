@@ -1,0 +1,7 @@
+echo  "#GamerTyron78" >> Oyun.py
+git init
+git add Oyun.py
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/GamerTyron78/GamerTyron78.git
+git push -u origin main
